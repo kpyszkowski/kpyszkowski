@@ -45,11 +45,23 @@ I am a JavaScript Developer passionate about crafting innovative and efficient s
 
 ## Resources
 
-- Books:
-  |Author|Title|Release year|Publisher|File|
-  |------|-----|------------|---------|----|
-  |Alex Banks & Eve Porcello|Learning React: Learning React Modern Patterns for Developing React Apps|2020|O`Reilly|[![Book icon](/assets/book.svg)](</books/Alex%20Banks%20%26%20Eve%20Porcello%20-%20Learning%20React%3A%20Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20-%20O%E2%80%B2Reilly%20(2020).pdf>)|
-  |Boris Cherny|Programming TypeScript: Making Your JavaScript Applications Scale|2019|O′Reilly|[![Book icon](/assets/book.svg)](</books/Boris%20Cherny%20-%20Programming%20TypeScript%3A%20Making%20Your%20JavaScript%20Applications%20Scale%20-%20O%E2%80%B2Reilly%20(2019).pdf>)|
-  |David Flanagan |JavaScript - The Definitive Guide: Master the Worlds Most-Used Programming Language | 2020 | O′Reilly|[![Book icon](/assets/book.svg)](</books/David%20Flanagan%20-%20JavaScript%20-%20The%20Definitive%20Guide%3A%20Master%20the%20Worlds%20Most-Used%20Programming%20Language%20-%20O%E2%80%B2Reilly%20(2020).pdf>)|
-  |Mario Casciaro & Luciano Mammino |Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques |2020| Packt Publishing |[![Book icon](/assets/book.svg)](</books/Mario%20Casciaro%20%26%20Luciano%20Mammino%20-%20Node.js%20Design%20Patterns%3A%20Design%20and%20implement%20production-grade%20Node.js%20applications%20using%20proven%20patterns%20and%20techniques%20-%20Packt%20Publishing%20(2020).pdf>)|
-  |Sam Newman |Building Microservices: Designing Fine-Grained Systems | 2021 |O′Reilly |[![Book icon](/assets/book.svg)](</books/Sam%20Newman%20-%20Building%20Microservices%3A%20Designing%20Fine-Grained%20Systems%20-%20O%E2%80%B2Reilly%20(2021).pdf>)|
+<details>
+  <summary>Books</summary>
+
+| Author                           | Title                                                                                                                    | Release year | Publisher        | File                                                                                                                                                                                                                                                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alex Banks & Eve Porcello        | Learning React: Learning React Modern Patterns for Developing React Apps                                                 | 2020         | O`Reilly         | [![Book icon](/assets/book.svg)](</books/Alex%20Banks%20%26%20Eve%20Porcello%20-%20Learning%20React%3A%20Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20-%20O%E2%80%B2Reilly%20(2020).pdf>)                                                                  |
+| Boris Cherny                     | Programming TypeScript: Making Your JavaScript Applications Scale                                                        | 2019         | O′Reilly         | [![Book icon](/assets/book.svg)](</books/Boris%20Cherny%20-%20Programming%20TypeScript%3A%20Making%20Your%20JavaScript%20Applications%20Scale%20-%20O%E2%80%B2Reilly%20(2019).pdf>)                                                                                                    |
+| David Flanagan                   | JavaScript - The Definitive Guide: Master the Worlds Most-Used Programming Language                                      | 2020         | O′Reilly         | [![Book icon](/assets/book.svg)](</books/David%20Flanagan%20-%20JavaScript%20-%20The%20Definitive%20Guide%3A%20Master%20the%20Worlds%20Most-Used%20Programming%20Language%20-%20O%E2%80%B2Reilly%20(2020).pdf>)                                                                        |
+| Mario Casciaro & Luciano Mammino | Node.js Design Patterns: Design and implement production-grade Node.js applications using proven patterns and techniques | 2020         | Packt Publishing | [![Book icon](/assets/book.svg)](</books/Mario%20Casciaro%20%26%20Luciano%20Mammino%20-%20Node.js%20Design%20Patterns%3A%20Design%20and%20implement%20production-grade%20Node.js%20applications%20using%20proven%20patterns%20and%20techniques%20-%20Packt%20Publishing%20(2020).pdf>) |
+| Sam Newman                       | Building Microservices: Designing Fine-Grained Systems                                                                   | 2021         | O′Reilly         | [![Book icon](/assets/book.svg)](</books/Sam%20Newman%20-%20Building%20Microservices%3A%20Designing%20Fine-Grained%20Systems%20-%20O%E2%80%B2Reilly%20(2021).pdf>)                                                                                                                     |
+
+</details>
+
+<details>
+  <summary>Configs</summary>
+</details>
+
+<details>
+  <summary>Miscellaneous</summary>
+</details>
