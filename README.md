@@ -1,63 +1,20 @@
-<style>
-:root {
-    --black: hsla(0, 0%, 4%);
-    --white: hsla(0, 0%, 96%);
-    color: var(--black);
-}
+<img 
+    style="
+        width: 256px;
+        height: 100%;
+        margin-bottom: 32px;
+    "
+    src="./assets/logo.svg" 
+    alt="Kamil Pyszkowski JavaScript Developer"
+/>
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        color: var(--white);
-    }
-}
-
-.header {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 32px;
-}
-
-.header__logo {
-    width: 256px;
-    height: 100%;
-}
-
-.header__links {
-    display: flex;
-    width: 100%;
-    gap: 24px;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-</style>
-
-<div class="header">
-    <img src="./assets/logo.svg" alt="Logo" class="header__logo" />
-    <ul class="header__links">
-        <li>
-            <a href="">
-                <img src="./assets/email.svg" />
-            </a>
-        </li>
-        <li>
-            <a href="">
-                <img src="./assets/linkedin.svg" />
-            </a>
-        </li>
-        <li>
-            <a href="">
-                <img src="./assets/bookmark.svg" />
-            </a>
-        </li>
-    </ul>
-</div>
-
-## Hi, my name is Kamil,
+## Hi, my name is Kamil 👋🏻
 
 I am a JavaScript Developer passionate about crafting innovative and efficient solutions using the power of web technologies. With a deep understanding of JavaScript and its ecosystem, I strive to create robust and scalable applications that deliver exceptional user experiences.
+
+[![Email address](/assets/email.svg)](mailto:kamilpyszkowski@gmail.com)
+[![Linkedin profile](/assets/linkedin.svg)](https://www.linkedin.com/in/kamil-pyszkowski-8365071ba/)
+[![Curriculum vitae](/assets/bookmark.svg)](./cv.pdf)
 
 ## I'm currently learning
 
