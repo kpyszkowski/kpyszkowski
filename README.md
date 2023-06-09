@@ -63,5 +63,11 @@ I am a JavaScript Developer passionate about crafting innovative and efficient s
 </details>
 
 <details>
+  <summary>Notes</summary>
+
+- [Infrastructure](/notes/infrastructure.md)
+</details>
+
+<details>
   <summary>Miscellaneous</summary>
 </details>

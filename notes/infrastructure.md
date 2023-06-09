@@ -192,17 +192,17 @@ For new _blank_ server you need to set it up properly:
 
 ## 5. Adding SSL certificate
 
-    DNS providers usually offers the SSL encryption as an extra paid feature. Suprisingly SSL certificate can be generated for free by the [Certbot](https://certbot.eff.org/) in few easy steps that varies depend on your servers architecture.
+DNS providers usually offers the SSL encryption as an extra paid feature. Suprisingly SSL certificate can be generated for free by the [Certbot](https://certbot.eff.org/) in few easy steps that varies depend on your servers architecture.
 
-    Certbot will fully automatically generate and apply certificates to your website(s).
+Certbot will fully automatically generate and apply certificates to your website(s).
 
-    Just visit the [instructions page](https://certbot.eff.org/instructions), choose detailed informations about your server and follow given instructions.
+Just visit the [instructions page](https://certbot.eff.org/instructions), choose detailed informations about your server and follow given instructions.
 
-    TIP: If you are using UFW remember to allow HTTPS ports (443):
+TIP: If you are using UFW remember to allow HTTPS ports (443):
 
-    ```bash
-    sudo ufw allow https
-    ```
+```bash
+sudo ufw allow https
+```
 
 ## 6. Configuring NodeJS process manager for your app
 
