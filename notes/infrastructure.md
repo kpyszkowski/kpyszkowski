@@ -206,4 +206,24 @@ sudo ufw allow https
 
 ## 6. Configuring NodeJS process manager for your app
 
-TODO
+If your NodeJS app crashes, it won't restart automatically. It's critical because in such case it will put your website down. We should handle it automatically to ensure continous application life cycle. You can use PM2, NodeJS process manager that will monitor your application process.
+
+First, install the module globally:
+
+```bash
+npm install pm2 -g
+```
+
+Then start the process manager indicating the application:
+
+```bash
+pm2 start <path-to-appliaction-entrypoint>
+```
+
+Finally, save the manager state and set it up as system service:
+
+```bash
+pm2 save && pm2 startup
+```
+
+From now your app should start automatically with server as background process and restart the app if it stops.
