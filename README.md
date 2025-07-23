@@ -10,16 +10,11 @@
 
 ## Hi, my name is Kamil 👋🏻
 
-I am a JavaScript Developer passionate about crafting innovative and efficient solutions using the power of web technologies. With a deep understanding of JavaScript and its ecosystem, I strive to create robust and scalable applications that deliver exceptional user experiences.
+I am an Software Engineer passionate about crafting innovative and efficient solutions using the power of web technologies. With a deep understanding of JavaScript and its ecosystem, I strive to create robust and scalable applications that deliver exceptional user experiences.
 
-[![Email address](/assets/email.svg)](mailto:kamilpyszkowski@gmail.com)
+[![Email address](/assets/email.svg)](mailto:kamil@pyszkowski.dev)
 [![Linkedin profile](/assets/linkedin.svg)](https://www.linkedin.com/in/kamil-pyszkowski-8365071ba/)
 [![Curriculum vitae](/assets/bookmark.svg)](./cv.pdf)
-
-## I'm currently learning
-
-- NextJS
-- Framer Motion
 
 ## My tech stack
 
@@ -36,12 +31,19 @@ I am a JavaScript Developer passionate about crafting innovative and efficient s
   ![Framer Motion](/assets/framer-motion-badge.svg)
   ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
   ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 - Backend:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- Infrastructure:
+
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## Resources
 
