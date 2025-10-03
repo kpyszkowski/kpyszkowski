@@ -1,9 +1,14 @@
 # Visual Studio Code configuration
 
 ## Version
-The extension used to customize the UI is deprecated. It means it doesn't work with latest VSC. It needs to be downgraded:
+The extension used to customize the UI is deprecated. It means it doesn't work with latest VSC. It needs to be downgraded.
+For Homebrew to install old version of application it needs to be in a tap. Local tap needs to be created:
+
 ```sh
-brew install --cask visual-studio-code@1.93  
+brew tap-new kpyszkowski/local
+mkdir -p $(brew --repo kpyszkowski/local)/Casks
+curl -o $(brew --repo kpyszkowski/local)/Casks https://raw.githubusercontent.com/Homebrew/homebrew-cask/b8fe6eb/Casks/v/visual-studio-code.rb
+brew install --cask kpyszkowski/local/visual-studio-code
 ```
 To prevent it being automatically updated, update mode setting must me changed:
 ```json
