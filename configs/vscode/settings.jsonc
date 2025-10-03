@@ -1,0 +1,81 @@
+{
+    // Appearence
+    "workbench.colorTheme": "One Dark Pro Night Flat",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "apc.font.family": "Fira Code",
+    "apc.monospace.font.family": "Fira Code",
+    "apc.activityBar": {
+      "position": "bottom",
+      "size": 42,
+      "itemSize": 36,
+      "itemMargin": 8
+    },
+    "apc.electron": {
+      "titleBarStyle": "hiddenInset",
+      "trafficLightPosition": {
+        "x": 16,
+        "y": 14
+      }
+    },
+    "apc.menubar.compact": false,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "editor.rulers": [80],
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "native",
+    "apc.header": {
+      "height": 36,
+      "fontSize": 12
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.tree.indent": 24,
+    "workbench.productIconTheme": "feather-vscode",
+    "workbench.colorCustomizations": {
+      "gitblame.inlineMessage": "#FFF3"
+    },
+    "window.zoomLevel": 1,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "material-icon-theme.activeIconPack": "none",
+  
+    // Behavior
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit",
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.value": 4,
+    "update.mode": "manual",
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "explorer.confirmPasteNative": false,
+    "workbench.editor.enablePreview": false,
+    "gitblame.inlineMessageEnabled": true,
+    "gitblame.inlineMessageNoCommit": "",
+    "gitblame.inlineMessageFormat": "${author.name} (${time.ago}) - ${commit.summary}",
+    "explorer.compactFolders": false,
+    "window.confirmBeforeClose": "keyboardOnly",
+    "files.autoSave": "onFocusChange",
+  
+    // Tooling
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "svg.preview.mode": "img",
+    "typescript.preferences.jsxAttributeCompletionStyle": "auto",
+    "git.confirmSync": false,
+    "markdownlint.run": "onSave",
+    "markdown.validate.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "json.format.enable": false,
+  }
+  

@@ -63,6 +63,8 @@ I am an Software Engineer passionate about crafting innovative and efficient sol
 
 <details>
   <summary>Configs</summary>
+
+  - [Visual Studio Code](/configs/vscode)
 </details>
 
 <details>
